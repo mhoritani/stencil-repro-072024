@@ -1,0 +1,18 @@
+{
+  "name": "hydration-example",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "hydrate": "tsx index.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "domino": "^2.1.6",
+    "tsx": "^4.16.2",
+    "typescript": "^5.5.4"
+  }
+}
